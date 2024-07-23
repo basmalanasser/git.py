@@ -1,1 +1,1 @@
-print("lllll")
+print("basmala")
