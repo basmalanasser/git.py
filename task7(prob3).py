@@ -28,8 +28,7 @@ def main():
          option=int(input("Enter an option:"))
          if option==1:
             user=input("Enter username:")
-            user:{username}
-            print(f"user: {user} registered successfully!")
+            print(f"user: {username} registered successfully!")
          elif option==2:
             message=input("Enter a message:")
             send_message :{sender, receivers ,message}
